@@ -388,6 +388,9 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl {
   padding: 15px 30px;
 }
+.input-lg {
+  height: 44px;
+}
 ::-moz-selection {
   color: white;
   text-shadow: none;
